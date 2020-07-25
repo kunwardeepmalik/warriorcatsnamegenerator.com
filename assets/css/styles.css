@@ -43,6 +43,11 @@ color: #fff;
 margin-top: 30px;
 }
 
+.btn:hover {
+  color: #b5b0b0;
+  text-decoration: none;
+  }
+
 .span{
   color: #fff;
   font-size: 15px;
