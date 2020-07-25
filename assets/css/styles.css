@@ -5,6 +5,11 @@ header {
     color: #fff;
     text-align: center;
   }
+
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+  }
   
   a {
     text-decoration: none;
