@@ -1,0 +1,95 @@
+header {
+  background-image: linear-gradient( 135deg, #FF6FD8 10%, #3813C2 100%);
+    width: 100%;
+    padding: 4% 0% 4%;
+    color: #fff;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: palevioletred;
+
+  }
+  a:hover{
+    color: #655e5e;
+  }
+
+  .menu{
+    background: #fff;
+    margin: 3% 0% 0% 0%;
+  }
+  
+  i {
+    display: none;
+  }
+  
+.jumbotron{
+    text-align: center;
+    background: #ff6fd8d1;
+    padding: 4% 20%;
+    margin: 3%;
+
+
+}
+.jumbotron h3{
+  color: #c855d2;
+background: #fff; 
+padding: 40px 0px;
+}
+.main-button{
+  background: #3813C2;
+color: #fff;
+margin-top: 30px;
+}
+
+.span{
+  color: #fff;
+  font-size: 15px;
+  padding-top: 10px;
+  font-weight: bold;
+
+
+}
+footer{
+  background-image: linear-gradient( 135deg, #FF6FD8 10%, #3813C2 100%);
+}
+footer a{
+  color: #fff;
+
+}
+
+.footer-copyright{
+  color: #fff;
+}
+
+ /* mobile */
+
+  @media screen and (max-width:580px) {
+    nav ul {
+      max-height: 0;
+    }
+  }
+  
+  @media screen and (max-width:580px) {
+    nav ul li {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 15px;
+      text-align: left;
+    }
+  }
+  
+  @media screen and (max-width:580px) {
+    .handle {
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width:580px) {
+    i {
+      display: block;
+    }
+  }
+  
+  
