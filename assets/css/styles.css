@@ -38,9 +38,9 @@ i {
 
 .jumbotron {
 	text-align: center;
-	background: #ff6fd8d1;
-	padding: 4% 20%;
-	margin: 3%;
+   	 padding: 2% 20%;
+   	 margin: 0% 0%;
+   	 background: #ffd9f5;
 }
 
 .jumbotron h3 {
