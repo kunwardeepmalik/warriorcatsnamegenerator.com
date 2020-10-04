@@ -1,1 +1,105 @@
-header{background-image:linear-gradient(135deg,#ff6fd8 10%,#3813c2 100%);width:100%;padding:4% 0 4%;color:#fff;text-align:center}.logo a{color:#fff;text-decoration:none}a{text-decoration:none;color:#db7093}a:hover{color:#655e5e}.menu{background:#fff;margin:3% 0 0 0}i{display:none}.jumbotron{text-align:center;background:#ff6fd8d1;padding:4% 20%;margin:3%}.jumbotron h3{color:#c855d2;background:#fff;padding:40px 0}.main-button{background:#3813c2;color:#fff;margin-top:30px}.btn:hover{color:#b5b0b0;text-decoration:none}.span{color:#fff;font-size:15px;padding-top:10px;font-weight:700}footer{background-image:linear-gradient(135deg,#ff6fd8 10%,#3813c2 100%)}footer a{color:#fff}.footer-copyright{color:#fff}@media screen and (max-width:580px){nav ul{max-height:0}}@media screen and (max-width:580px){nav ul li{box-sizing:border-box;width:100%;padding:15px;text-align:left}}@media screen and (max-width:580px){.handle{display:block}}@media screen and (max-width:580px){i{display:block}}
+header {
+	background-image: linear-gradient(135deg,#ff6fd8 10%,#3813c2 100%);
+	width: 100%;
+	padding: 4% 0 4%;
+	color: #fff;
+	text-align: center;
+}
+
+.logo a {
+	color: #fff;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: #db7093;
+}
+
+a:hover {
+	color: #655e5e;
+}
+
+.menu {
+	background: #fff;
+	margin: 3% 0 0 0;
+}
+
+i {
+	display: none;
+}
+
+.jumbotron {
+	text-align: center;
+	background: #ff6fd8d1;
+	padding: 4% 20%;
+	margin: 3%;
+}
+
+.jumbotron h3 {
+	color: #c855d2;
+	background: #fff;
+	padding: 40px 0;
+}
+
+.name {
+    background: #fff;
+    padding: 15px;
+}
+
+.main-button {
+	background: #3813c2;
+	color: #fff;
+	margin-top: 30px;
+}
+
+.btn:hover {
+	color: #b5b0b0;
+	text-decoration: none;
+}
+
+.span {
+	color: #fff;
+	font-size: 15px;
+	padding-top: 10px;
+	font-weight: 700;
+}
+
+footer {
+	background-image: linear-gradient(135deg,#ff6fd8 10%,#3813c2 100%);
+}
+
+footer a {
+	color: #fff;
+}
+
+.footer-copyright {
+	color: #fff;
+}
+
+@media screen and (max-width:580px) {
+	nav ul {
+		max-height: 0;
+	}
+}
+
+@media screen and (max-width:580px) {
+	nav ul li {
+		box-sizing: border-box;
+		width: 100%;
+		padding: 15px;
+		text-align: left;
+	}
+}
+
+@media screen and (max-width:580px) {
+	.handle {
+		display: block;
+	}
+}
+
+@media screen and (max-width:580px) {
+	i {
+		display: block;
+	}
+}
